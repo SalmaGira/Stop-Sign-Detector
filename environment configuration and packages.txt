@@ -1,0 +1,4 @@
+Anconda was used
+Version of python: python 3.7
+Libraries used:	numpy--> its version = 1.16.4
+		cv2--> its version = 4.1.0
